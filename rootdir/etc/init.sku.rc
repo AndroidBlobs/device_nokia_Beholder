@@ -1,0 +1,14 @@
+on fs
+    setprop ro.product.odm.brand Nokia
+    setprop ro.product.vendor.brand Nokia
+    setprop ro.product.odm.model "Nokia 9"
+    setprop ro.product.odm.device AOP_sprout
+    setprop ro.product.odm.name Beholder_00WW
+    setprop ro.product.vendor.model "Nokia 9"
+    setprop ro.product.vendor.device AOP_sprout
+    setprop ro.product.vendor.name Beholder_00WW
+    setprop ro.product.odm.manufacturer "HMD Global"
+    setprop ro.product.vendor.manufacturer "HMD Global"
+on fs
+	setprop ro.vendor.build.fingerprint Nokia/Beholder_00WW/AOP_sprout:10/QKQ1.190725.002/00WW_5_13B:user/release-keys
+	setprop ro.odm.build.fingerprint Nokia/Beholder_00WW/AOP_sprout:10/QKQ1.190725.002/00WW_5_13B:user/release-keys
